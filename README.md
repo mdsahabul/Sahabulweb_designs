@@ -44,7 +44,6 @@
 <div class="video">
 <video width="1349" height="766" loop="true" autoplay="true" controls>
   <source src="Thank 10.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 </div>
 </body>
