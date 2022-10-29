@@ -26,18 +26,18 @@
 </div>
 <div class="row">
 <div class="column">
-<img class="responsive-image" src="G:\designer web\Behance 2nd 2.jpg" width="400px" height="400px">
+<img class="responsive-image" src="Behance 2nd 2.jpg" width="400px" height="400px">
 <button type="button">Add to cart </button>
-<button type="button"><a href="G:\designer web\Behance 2nd 2.jpg">See full view</button>
+<button type="button"><a href="Behance 2nd 2.jpg">See full view</button>
 </div>
 <div class="column">
-<img class="responsive-image" src="G:\designer web\Behance 2nd 3.jpg" width="400px" height="400px">
-<button type="button"><a href="G:\designer web\Behance 2nd 3.jpg">See full view</button>
+<img class="responsive-image" src="Behance 2nd 3.jpg" width="400px" height="400px">
+<button type="button"><a href="Behance 2nd 3.jpg">See full view</button>
 <button type="button">Cart</button>
 </div>
 <div class="column">
-<img class="responsive-image" src="G:\designer web\Behance 2nd 3.jpg" width="400px" height="400px">
-<button type="button"><a href="G:\designer web\Behance 2nd 3.jpg">See full view</button>
+<img class="responsive-image" src="Behance 2nd 3.jpg" width="400px" height="400px">
+<button type="button"><a href="Behance 2nd 3.jpg">See full view</button>
 <button type="button">Cart</button>
 </div>
 </div>
