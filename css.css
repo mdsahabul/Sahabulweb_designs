@@ -98,7 +98,7 @@ span{
   padding: 5px;
 }
 .row::after {
-  content: "";
+  content:"";
   clear: both;
   display: row;
 }
