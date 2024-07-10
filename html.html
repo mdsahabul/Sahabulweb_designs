@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>Sahabul Designs</title>
-<link rel="stylesheet" href="css.css"
+<link rel="stylesheet" href="css.css">
 </head>
 <body>
 <div class="banner">
