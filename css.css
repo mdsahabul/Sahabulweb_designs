@@ -19,7 +19,7 @@ body, html {
   
   /* Navbar styles */
   .navbar {
-	width: 85%;
+	width: 100%;
 	margin: auto;
 	padding: 20px 0;
 	display: flex;
@@ -35,7 +35,7 @@ body, html {
   .navbar ul {
 	list-style: none;
 	display: flex;
-	align-items: center;
+	align-items: right;
   }
   
   .navbar ul li {
