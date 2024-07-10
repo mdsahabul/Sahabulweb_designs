@@ -138,4 +138,15 @@ body, html {
 	clear: both;
 	display: table;
   }
+  /* Responsive design */
+@media (max-width: 768px) {
+  header {
+    padding: 20px 0;
+  }
   
+  nav ul {
+    display: block;
+    text-align: center;
+    padding: 10px 0;
+  }
+	
