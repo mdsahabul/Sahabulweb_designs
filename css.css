@@ -114,8 +114,8 @@ body, html {
 .video {
   margin-top: 40px;
   text-align: center;
-  height: 150px;
-  width: 200px;
+  height: 500px;
+  width: 250px;
 }
 
 .video video {
