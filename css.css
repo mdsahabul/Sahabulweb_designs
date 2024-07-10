@@ -39,7 +39,7 @@ body, html {
 
 .menu li a {
   text-decoration: none;
-  color: black;
+  color: rgb(255, 255, 255);
   text-transform: uppercase;
   transition: color 0.3s ease;
 }
@@ -119,13 +119,13 @@ body, html {
 }
 
 .video video {
-  max-width: 50%;
-  height: 25%;
+  max-width: 500px;
+  height: 300px;
 }
 
 /* Footer styles */
 footer {
-  background-color: #f0f0f0;
+  background-color: #5e5b5b;
   padding: 20px;
   text-align: center;
   position: fixed;
